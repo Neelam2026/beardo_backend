@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Beardo Ultraglow Bodywash ",
+      "category": " bodywash",
+      "price": "299",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy91bHRyYWdsb3ctYm9keS13YXNoLWltYWdlLTAzLTY0MjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo De-Tan Bodywash for Men",
+      "category": " bodywash",
+      "price": "250",
+      "quantiy": "200ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9kZS10YW4tYm9keXdhc2gtMTA4MHg4NTUtMTIzNDcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo HEMP Soap (125g)",
+      "category": "soaps",
+      "price": "245",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9oZW1wLXNvYXAtMTA4MHg4NTUtMTM0MTYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo Activated Charcoal Brick Soap",
+      "category": "soaps",
+      "price": "195",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9hY3RpdmF0ZWQtY2hhcmNvYWwtYnJpY2stc29hcC0xMDgweDg1NS0xMjMxMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEsImhlaWdodCI6NzAwLCJmaXQiOiJvdXRzaWRlIn19fQ=="
+    }
+  ]

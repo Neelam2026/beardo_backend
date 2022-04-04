@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Beardo TRIMMER BD-TMET01 Protrim series 45min. runtime",
+      "category": "trimmers",
+      "price": "949",
+
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9iZWFyZG8tdHJpbW1lci0xMDgweDg1NS0xLTk0NTYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo Blaze Trimmer for Men",
+      "category": "trimmers",
+      "price": "1799",
+
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9iZWFyZG8tdHJpbW1lci1ibGF6ZS13ZWJzaXRlLWxpc3RpbmctMTA4MHg4NTUtMS0xMzQwNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEsImhlaWdodCI6NzAwLCJmaXQiOiJvdXRzaWRlIn19fQ=="
+    },
+    {
+      "title": "Beardo BEAST Styling Trimmer Kit",
+      "category": "trimmers",
+      "price": "2499",
+
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9iZWFyZG8tYmVhc3QtdHJpbW1lci1hLWJhbm5lci0xMDgwLXgtODU1LTAyLTExMDM5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    }
+  ]

@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Beardo Onion Oil ",
+      "category": "oils_&_serums",
+      "price": "399",
+      "quantiy": "50ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9vbmlvbi1vaWwtaW1hZ2UtMDEtNjgzMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEsImhlaWdodCI6NzAwLCJmaXQiOiJvdXRzaWRlIn19fQ=="
+    },
+    {
+      "title": "Beardo Hair Serum ",
+      "category": "oils_&_serums",
+      "price": "295",
+      "quantiy": "100ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9oYWlyLXNlcnVtLTEwODB4ODU1LTEyMDg0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    },
+    {
+      "title": "Beardo HEMP Styling Hair Oil",
+      "category": "hair_styling",
+      "price": "399",
+      "quantiy": "100ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy81LTM2Mzg4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    },
+    {
+      "title": "Beardo Strong Hold Hair Spray",
+      "category": "hair_styling",
+      "price": "499",
+      "quantiy": "200ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9zdHJvbmctaG9sZC1oYWlyLXNwcmF5LWltYWdlLTAyLTYwNjkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo Hair Fall Control Shampoo",
+      "category": "shampoos",
+      "price": "350",
+      "quantiy": "100ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy83LTQtMTE4ODQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo Dandruff Control Shampoo with Apple Cider Vinegar ",
+      "category": "shampoos",
+      "price": "399",
+      "quantiy": "200ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9kYW5kcnVmZi1jb250cm9sLXNoYW1wb28tMTA4MHg4NTUtMTM0NTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    }
+  ]

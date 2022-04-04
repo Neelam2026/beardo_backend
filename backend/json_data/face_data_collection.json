@@ -1,0 +1,94 @@
+[
+    {
+      "title": "Beardo Vitamin C Face Serum (Night Shot)",
+      "category": "vit_c_range",
+      "price": "550",
+      "quantiy": "30ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy8zLTItMTMyNDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo Vit-C Power-Foam",
+      "category": "vit_c_range",
+      "price": "350",
+      "quantiy": "100ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy92aXRhbWluLWMtZmFjZS13YXNoLWEtYmFubmVyLTAxLTExMTk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    },
+    {
+      "title": "Beardo Vit-C Under Eye Serum ",
+      "category": "vit_c_range",
+      "price": "499",
+      "quantiy": "30ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9iZWFyZG8tdml0YW1pYy1jLXVuZGVyLWV5ZS1yb2xsLW9uLWEtYmFubmVyLTAxLTMyMDYyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    },
+    {
+      "title": "Beardo Vitamin C Sheet Mask ",
+      "category": "vit_c_range",
+      "price": "477",
+
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy92aXRhbWluLWMtc2hlZXQtbWFzay0xMDgweDg1NS0xMzE1MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEsImhlaWdodCI6NzAwLCJmaXQiOiJvdXRzaWRlIn19fQ=="
+    },
+    {
+      "title": "Beardo ALOE VERA Natural Facewash (For Dry Skin)",
+      "category": "facewash",
+      "price": "299",
+      "quantiy": "100ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9hbG9lLXZlcmEtbmF0dXJhbC1mYWNld2FzaC0xMDgweDg1NS0xMzEyNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEsImhlaWdodCI6NzAwLCJmaXQiOiJvdXRzaWRlIn19fQ=="
+    },
+    {
+      "title": "Beardo HEMP Facewash ",
+      "category": "facewash",
+      "price": "399",
+      "quantiy": "50ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy84MDNjNDNmYy0yNTZmLTQ3OTQtOGZmZS05NDgyMmI0ZDY5OWYtMzU4MTAuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    },
+    {
+      "title": "Beardo Activated Charco",
+      "category": "facewash",
+      "price": "275",
+      "quantiy": "30ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9hY3RpdmF0ZWQtY2hhcmNvYWwtZmFjZXdhc2gtMTA4MHg4NTUtMTMwOTguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo ultraglow facewash",
+      "category": "facewash",
+      "price": "350",
+      "quantiy": "100ml",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy91bHRyYWdsb3ctZmFjZXdhc2gtMTA4MHg4NTUtMTIyNzIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo Activated Charcoal Peel Off Mask (100g)",
+      "category": "scrubs",
+      "price": "350",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9hY3RpdmF0ZWQtY2hhcmNvYWwtcGVlbC1vZi1tYXNrLTEwODB4ODU1LTAxLTI0NzQ5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    },
+    {
+      "title": "Beardo Turmeric Face Scrub for Men (100g)",
+      "category": "scrubs",
+      "price": "450",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy90dXJtZXJpYy1mYWNlLXNjcnViLTEwODB4ODU1LTEyNDg5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MSwiaGVpZ2h0Ijo3MDAsImZpdCI6Im91dHNpZGUifX19"
+    },
+    {
+      "title": "Beardo Ultraglow Facewash & De-Tan Peel Off Mask Combo",
+      "category": "scrubs",
+      "price": "599",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy91bHRyYWdsb3ctZmFjZXdhc2gtZGUtdGFuLXBlZWwtb2ZmLW1hc2stY29tYm8tMTA4MHg4NTUtMTMwNzAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxLCJoZWlnaHQiOjcwMCwiZml0Ijoib3V0c2lkZSJ9fX0="
+    },
+    {
+      "title": "Beardo De-Tan Peel Off Mask ",
+      "category": "scrubs",
+      "price": "799",
+      "img_url":
+        "https://images.beardo.in/eyJidWNrZXQiOiJiZWFyZG9jIiwia2V5IjoidXBsb2Fkcy9kZS10YW4tcGVlbC1vZmYtbWFzay0xMDgweDg1NS0xMjI1NS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEsImhlaWdodCI6NzAwLCJmaXQiOiJvdXRzaWRlIn19fQ=="
+    }
+  ]
